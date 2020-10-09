@@ -66,15 +66,15 @@ Both Cyclic Learning rate and One Cycle Policy was introduced by **LESLIE SMITH*
 * Best Test Accuracy - **91.21%**
 * Epoch v/s Lr
 
-![](https://github.com/arghya05/arghya05-EVA-5-session-11/tree/main/Session11/Assets/Lr.png)
+![](https://github.com/arghya05/arghya05-EVA-5-session-11/blob/main/Session11/Assets/Lr.png)
 
 * Accuracy Graph
 
-![](https://github.com/arghya05/arghya05-EVA-5-session-11/tree/main/Session11/Assets/Accuracy_graph.png)
+![](https://github.com/arghya05/arghya05-EVA-5-session-11/blob/main/Session11/Assets/Accuracy_graph.png)
 
 * Misclassified images
 
-![](https://github.com/arghya05/arghya05-EVA-5-session-11/tree/main/Session11/Assets/misclassified_images.png)
+![](https://github.com/arghya05/arghya05-EVA-5-session-11/blob/main/Session11/Assets/misclassified_images.png)
 
 ## **Observations**
 
