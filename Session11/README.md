@@ -62,19 +62,19 @@ Both Cyclic Learning rate and One Cycle Policy was introduced by **LESLIE SMITH*
   * cyclic momentum -False
 
 ## **Results**
-* Best Train Accuracy - **95.65%**
-* Best Test Accuracy - **91.73%**
+* Best Train Accuracy - **95.68%**
+* Best Test Accuracy - **91.21%**
 * Epoch v/s Lr
 
-![](https://github.com/Sushmitha-Katti/EVA-4/blob/master/Session11/Assets/Lr.png)
+![](https://github.com/arghya05/arghya05-EVA-5-session-11/tree/main/Session11/Assets/Lr.png)
 
 * Accuracy Graph
 
-![](https://github.com/Sushmitha-Katti/EVA-4/blob/master/Session11/Assets/Accuracy_graph.png)
+![](https://github.com/arghya05/arghya05-EVA-5-session-11/tree/main/Session11/Assets/Accuracy_graph.png)
 
 * Misclassified images
 
-![](https://github.com/Sushmitha-Katti/EVA-4/blob/master/Session11/Assets/misclassified_images.png)
+![](https://github.com/arghya05/arghya05-EVA-5-session-11/tree/main/Session11/Assets/misclassified_images.png)
 
 ## **Observations**
 
